@@ -1,0 +1,17 @@
+{
+    "name": "osk1.liu-xiao-guo",
+    "description": "description of osk1",
+    "architecture": "@CLICK_ARCH@",
+    "title": "osk1",
+    "hooks": {
+        "osk1": {
+            "apparmor": "osk1/osk1.apparmor",
+            "desktop":  "osk1/osk1.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+

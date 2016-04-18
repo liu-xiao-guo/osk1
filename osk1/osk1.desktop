@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=osk1
+Exec=osk1
+Icon=osk1/osk1.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
